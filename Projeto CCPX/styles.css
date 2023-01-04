@@ -1,0 +1,198 @@
+#img-top {
+    position: absolute;
+    width: 1325px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFD900;
+
+}
+#img {
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 20px;
+    top: 27px;
+}
+#text {
+    position: absolute;
+    padding: 270px;
+    padding-top: 120px;
+    width: 20px;
+    align-items: center;
+    margin-top: 72px;
+    margin-left: -20px;
+    
+    
+
+    background-color: #514988;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title-1 {
+    position: absolute;
+    left: 58px;
+    top: -25px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #F3C61F;
+}
+.title-2 {
+    position: absolute;
+    font-size: 20px;
+    width: 500px;
+    left: 100px;
+    top: 50px;
+    color: #FFFFFF;
+
+}
+.subtitle {
+    position: absolute;
+    width: 500px;
+    height: 230px;
+    left: 100px;
+    top: 110px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 15px;
+    line-height: 25px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+
+    color: #FFFFFF;
+    
+    
+}
+    .mp4{
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+        padding-right: 141px;
+        padding-top: 139px;
+        height: 339px;
+        background: rgb(255, 255, 255);
+}
+
+    #video{
+        width: 610px;
+        height: 313px;
+
+    }
+    #Thursday{
+    display: flex;
+
+    width: 204px;
+    height: 204px;
+    left: 81px;
+    top: 875px;
+
+    background: url();
+}
+#text-p{
+    position: absolute;
+    
+    height: 33px;
+    left: 71px;
+    top: 476px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-size: 9px;
+    line-height: 33px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #F3C61F;
+}
+#principal{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    padding-top: 25px;
+    padding-left: 74px;
+    width: 509px;
+    /*juro eu desti de tentar mudar o tamanho da margem, ja tentei de tudo e pesquisei em todo lugar
+    desculpa vai fica assim :c*/
+    margin-right: 72px;
+
+    justify-content: space-around;
+}
+.days{
+    width: 125px;
+    height: 140px;
+}
+.timer{
+    position: absolute;
+    display: grid;
+    grid-auto-flow: column;
+
+    top: 61px;
+    width: 624px;
+    left: 548px;
+
+    justify-content: space-around;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-size: 20px;
+    color: #514988;
+}
+#timer-text{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    width: 642px;
+    height: 23px;
+    left: 583px;
+    top: 136px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-size: 11px;
+    line-height: 53px;
+
+    color: #E33881;
+}
+#button{
+    position: absolute;
+
+    width: 323px;
+    height: 85px;;
+    left: 717px;
+    top: 537px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-size: 31px;
+    align-items: center;
+    text-align: center;
+
+    background: #514988;
+    border-radius: 20px;
+    border: none;
+    
+
+    color: #FFFFFF;
+
+}
+
+#button:hover 
+
+{ background-color: #FFD900; 
+
+
+}
